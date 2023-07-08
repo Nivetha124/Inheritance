@@ -8,10 +8,10 @@
 * The object of the derived class can access the properties and method of the derived class as well as base class.
 
       Real time examples
-    Dad and son
-    vehicle and car
-    car and feature
-    vehicle and (pulled vehicles       and automotive vehicle)
+   # Dad and son
+   # vehicle and car
+   # car and feature
+   # vehicle and (pulled vehicles       and automotive vehicle)
 
 
   eg:  class vehicle:
